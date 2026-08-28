@@ -1,95 +1,51 @@
 # Andrew Rafal - Fullstack SWE | AI Systems | Game Dev
 
-I’m Andrew, a UC San Diego Computer Science student building systems at the intersection of AI, full‑stack engineering, and interactive world design. I love creating tools, games, and agents that help people explore, learn, and experience complex systems in intuitive ways.
+**Email:** andrewrafal12@gmail.com **LinkedIn:** https://linkedin.com/in/andrew-rafal **GitHub:** https://github.com/AndrewR270
 
-- **Email:** andrewrafal12@gmail.com
-- **LinkedIn:** https://linkedin.com/in/andrew-rafal
-- **GitHub:** https://github.com/AndrewR270
+## Who am I?
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AndrewR270&hide_rank=true&custom_title=My%20Activity%3A&show_icons=true&include_all_commits=true&theme=monokai)](https://github-stats-extended.vercel.app/api?username=AndrewR270&hide_rank=true&custom_title=My%20Activity%3A&show_icons=true&include_all_commits=true&theme=monokai)
+I’m Andrew, a UC San Diego Computer Science student building systems which combine AI, full‑stack engineering, and interactive world design. My passion is creating quality user experiences, whether on research tools like WorldTour AI, web applications like Collegiary and Opportune, or games like A Land Divided. I'm passionate about using CS for who it was intended for: humanity. That means leveraging a multitude of languages, frameworks, and APIs to deliver in projects which enhance, educate, and entertain. 
 
+## What Do I Use?
 
-I’m currently developing A Land Divided, a historically grounded strategy game with modular scenario architecture, and WorldTour, an AI‑powered anthropological exploration tool. I’ve also shipped production full‑stack systems through my internships.
+### Languages
 
-I’m actively seeking Summer 2027 Software Engineering Internships.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-🚀 Featured Projects
-A Land Divided — Strategy Game (Unity, C#)
-A modular, historically grounded strategy game exploring multipolar intracultural conflicts.
+### Frontend
 
-Custom map rendering pipeline (camera‑static, image‑transform architecture)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-Smooth panning/zooming with lerped motion and mouse‑centered scaling
+### Backend
 
-Resolution‑adaptive UI via ResolutionScaler.cs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Scenario management system enabling multi‑scenario switching in a single scene
+### DevOps
 
-Clean Git workflow: main (stable), develop (active), snapshot branches for versioned systems
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Repo: https://github.com/AndrewR270/A-Land-Divided (github.com in Bing)
+### AI
 
-WorldTour — AI Anthropological Explorer (Next.js, React, Gemini, Leaflet.js)
-Explore any location on Earth and receive cultural, historical, and anthropological insights.
-
-Gemini 3 Flash Lite agent for cultural + historical synthesis
-
-Reverse‑geocoding pipeline with OpenStreetMaps + Leaflet.js
-
-Topic‑driven exploration with linked concepts and related places
-
-Clean architecture: app/, components/, backend/functions/, lib/
-
-Awarded Best .Tech Domain Hack & 2nd Best Beginner Hack at DiamondHacks
-
-Live App: https://world-tour-ai.vercel.app/ (world-tour-ai.vercel.app in Bing)  
-Repo: https://github.com/AndrewR270/WorldTour
-
-IDXExchange — Full‑Stack Property Search (Next.js, Express.js, Docker, MySQL)
-Built during the Summer 2026 SDE Internship.
-
-Fetches 6000+ property records with filtering, pagination, and SQL injection protections
-
-Composite SQL indexing → 75% faster query performance
-
-Responsive Next.js frontend with reusable TSX components
-
-Jest test suites, Dockerized MySQL environment, REST API design
-
-Repo: https://github.com/AndrewR270/IDXExchange (github.com in Bing)
-
-💼 Experience
-Lead Engineer Intern — Collegiary (2026)
-Architected Next.js + Tailwind + FastAPI + Supabase stack
-
-Designed hosting plan using Vercel edge functions + Render backend + Supabase Cloud
-
-Managed CI/CD, PR workflow, and feature sprints for a team of 5
-
-Reduced profile load latency by 50% and registration navigation by 300%
-
-Software Engineer Intern — IDXExchange (2026)
-Built full‑stack property search platform
-
-Implemented SQL indexing, pagination, and secure filtering
-
-Designed reusable frontend components and Jest test suites
-
-Created custom API routes for dynamic MySQL queries
-
-Software Developer — CSES Open‑Source (2025–2026)
-Expanded profile displays and social pages for Opportune
-
-Worked in React + Vite + MongoDB Atlas
-
-Improved filtering and UI design; integrated Groq email generation agent
-
-🧠 Technical Skills
-Languages: TypeScript, JavaScript, Python, SQL, Java, C
-Frontend: React, Next.js (App Router), Tailwind, shadcn/ui, Leaflet.js, Vite
-Backend: FastAPI, Express.js, Node.js, Supabase (PostgreSQL, RLS), MongoDB
-DevOps: Docker, Git, GitHub PR workflow, Vercel, Render, Postman, Jest
-AI & Automation: Gemini 3 Flash, Llama Vision, Groq, LangGraph, multi‑agent systems, n8n workflows
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_AI-FF4A4A?style=for-the-badge&logo=groq&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=python&logoColor=white)
 
 📚 Current Focus
 Building A Land Divided into a fully playable strategy experience
