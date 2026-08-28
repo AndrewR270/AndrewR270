@@ -1,6 +1,6 @@
-# Andrew Rafal - Fullstack SWE | AI Systems | Game Dev
+<h1 align="center">Andrew Rafal</h1>
 
-**Email:** andrewrafal12@gmail.com **LinkedIn:** https://linkedin.com/in/andrew-rafal **GitHub:** https://github.com/AndrewR270
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=50&color=8ae22e&center=true&vCenter=true&width=1000&lines=Software+Engineer;AI+Systems+Developer;Full-Stack+Engineer;Game+Developer" />
 
 ## Who am I?
 
@@ -47,11 +47,20 @@ I’m Andrew, a UC San Diego Computer Science student building systems which com
 ![Groq](https://img.shields.io/badge/Groq_AI-FF4A4A?style=for-the-badge&logo=groq&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=python&logoColor=white)
 
-📚 Current Focus
-Building A Land Divided into a fully playable strategy experience
+### What Am I Working On?
 
-Expanding WorldTour with richer cultural datasets and topic‑driven exploration
+- **WorldTour AI** — improving Gemini response rates, prompting detail, database integration
+- **A Land Divided** — building core mechanics, scenario architecture, and rendering pipeline  
+- **Collegiary** — full-stack college readiness internship project (Next.js + FastAPI + Supabase)  
+- **IDXExchange** — building an end-to-end property search application (Next.js + Express + Docker + MySQL)
+- **Neetcode Problems** - practicing DSA problems and optimization
 
-Strengthening AI agent orchestration and multi‑agent pipelines
+### What Are Some Achievements I'm Proud Of?
 
-Preparing for Summer 2027 SWE internship applications
+- Architected full-stack hosting pipeline as a Lead Engineer on Collegiary
+- Won Best .Tech Domain Hack & Best Beginner Hack at DiamondHacks
+- Created responsive user controls and fast rendering on A Land Divided
+- Made a reliable and type-safe custom MySQL API at IDXExchange
+- Created intricate and personalized UI designs on several projects
+
+### Explore some of my work below!
