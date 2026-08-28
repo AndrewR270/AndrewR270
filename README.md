@@ -6,8 +6,7 @@ I’m Andrew, a UC San Diego Computer Science student building systems at the in
 - **LinkedIn:** https://linkedin.com/in/andrew-rafal
 - **GitHub:** https://github.com/AndrewR270
 
-![Andrew's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AndrewR270&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndrewR270&layout=compact&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AndrewR270&hide_rank=true&custom_title=My%20Activity%3A&show_icons=true&include_all_commits=true&theme=monokai)](https://github-stats-extended.vercel.app/api?username=AndrewR270&hide_rank=true&custom_title=My%20Activity%3A&show_icons=true&include_all_commits=true&theme=monokai)
 
 
 I’m currently developing A Land Divided, a historically grounded strategy game with modular scenario architecture, and WorldTour, an AI‑powered anthropological exploration tool. I’ve also shipped production full‑stack systems through my internships.
