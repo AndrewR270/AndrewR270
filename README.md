@@ -25,6 +25,7 @@ I’m Andrew, a UC San Diego Computer Science student building systems which com
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Backend
 
@@ -61,6 +62,6 @@ I’m Andrew, a UC San Diego Computer Science student building systems which com
 - Won Best .Tech Domain Hack & Best Beginner Hack at DiamondHacks
 - Created responsive user controls and fast rendering on A Land Divided
 - Made a reliable and type-safe custom MySQL API at IDXExchange
-- Created intricate and personalized UI designs on several projects
+- Created a mod (Tetrarchy 311 AD) for Rome: Total War with over 2,000+ users.
 
 ### Explore some of my work below!
