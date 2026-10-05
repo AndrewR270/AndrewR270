@@ -1,6 +1,6 @@
 <h1 align="center">Andrew Rafal</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=50&color=8ae22e&center=true&vCenter=true&width=1000&lines=Software+Engineer;AI+Systems+Developer;Full-Stack+Engineer;Game+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=50&color=8ae22e&center=true&vCenter=true&width=1000&lines=Full-Stack+Software+Engineer;Machine+Learning+Programmer;Game+Developer;AI+Integration+Architect" />
 
 ## Who am I?
 
