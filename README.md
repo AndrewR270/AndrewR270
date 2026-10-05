@@ -4,7 +4,7 @@
 
 ## Who am I?
 
-I’m Andrew, a UC San Diego Computer Science student building systems which combine AI, full‑stack engineering, and interactive world design. My passion is creating quality user experiences, whether on research tools like WorldTour AI, web applications like Collegiary and Opportune, or games like A Land Divided. I'm passionate about using CS for who it was intended for: humanity. That means leveraging a multitude of languages, frameworks, and APIs to deliver in projects which enhance, educate, and entertain. 
+I’m Andrew, a UC San Diego Computer Science student building systems which combine AI, full‑stack engineering, and interactive world design. I'm passionate about using CS for who it was intended for: humanity. That means leveraging a multitude of languages, frameworks, ML pipelines, and APIs to deliver in projects which enhance, educate, and entertain. 
 
 ## What Do I Use?
 
